@@ -1,3 +1,15 @@
+# Custom
+
+*.docx
+*.doc
+
+*.csv
+*.xls
+*.xlsx
+*.xlsm
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
