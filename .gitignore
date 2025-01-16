@@ -8,6 +8,7 @@
 *.xlsx
 *.xlsm
 
+cleaned_data.csv
 
 
 # Byte-compiled / optimized / DLL files
